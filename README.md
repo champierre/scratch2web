@@ -14,11 +14,11 @@ Install crhomedriver from http://chromedriver.storage.googleapis.com/index.html 
 
 ### input text field
 
-![input](https://dl.dropboxusercontent.com/u/385564/scratch2web/goto.gif "input")
+![input](https://dl.dropboxusercontent.com/u/385564/scratch2web/input.gif "input")
 
 ### click button
 
-![click](https://dl.dropboxusercontent.com/u/385564/scratch2web/goto.gif "click")
+![click](https://dl.dropboxusercontent.com/u/385564/scratch2web/click.gif "click")
 
 ### all in one
 
